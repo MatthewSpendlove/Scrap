@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(173, 209, 221);
+    text-align: justify;
+    font-family: sans-serif;
+    color: rgb(74, 81, 88);
+  }
+
+
+
+
+  img {
+  float: right;
+  width: 600px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    vertical-align: middle;
+  }
+p {
+  font-size: larger;
+}
+
+ol {
+  font-size: x-large;
+  margin: left 100px; 
+}
+
+ul {
+  font-size: 25px;
+  margin: left 100px; 
+}
+
+h3 {
+  font-size: xx-large;
+}
+
+iframe {
+  margin-left: 260px;
+}
